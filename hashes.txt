@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kobor Likhechi
+
+This log tracks the cryptographic history and versioning for the song **Kobor Likhechi** (kobor-likhechi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T07:26:50.722800 | `v1` | `dac4f1501770cc0eac1cb6feb67b1ab5e8ee641d86774a4c750e0506848a52a9` | `00ad37712fdeab1521c46f544fed875deb04d530a10c13a3425d37cd01806d9b` | `2026-05-16_kobor-likhechi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

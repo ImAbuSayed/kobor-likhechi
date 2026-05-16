@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kobor-likhechi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Kobor Likhechi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kobor-likhechi/) |
+| **Get License** | [Get License For Kobor Likhechi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kobor-likhechi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dac4f1501770cc0eac1cb6feb67b1ab5e8ee641d86774a4c750e0506848a52a9` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
